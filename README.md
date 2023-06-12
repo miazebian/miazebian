@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 # 💫 About Me:
 📚Education<br>Recently graduated from the Lebanese American <br>University with a bachelor's in Computer Science. <br><br>💼Experience<br>I have prior experience in Game Development using Unity,<br>Machine Learning, and full-stack software development.<br><br>✍🏼Interests<br>Backend development<br>Frontend development<br>Mobile development<br>Web development<br>Machine Learning<br>AI<br>Game development <br><br>
 
@@ -17,10 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=miazebian&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=miazebian&icon=7&color=1)](https://visitcount.itsvg.in)
 
--->
